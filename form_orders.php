@@ -31,6 +31,7 @@
         <select name="tipe_kamar">Tipe Kamar
         <option name="deluxe" value="Deluxe">Deluxe</option>
         <option name="superior" value="Superior">Superior</option>
+            <option name="luxury" value="Luxury">Luxury</option>
         </select>
         <br>
         <br>
